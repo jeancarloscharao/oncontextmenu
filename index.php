@@ -11,7 +11,8 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <div class="container" oncontextmenu="return false" style="height: 100vh">
+    <div oncontextmenu="return false" style="width: 100%; height: 100vh">
+    <div class="container">
     <h1>Hello, world!</h1>
 
 
@@ -48,6 +49,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     -->
 
+    </div>
     </div>
   </body>
 </html>
